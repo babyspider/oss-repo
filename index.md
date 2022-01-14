@@ -6,3 +6,4 @@ Hi, I am a senior at RPI. I am studying computer science with a concentration in
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
+![IMG_0165](https://user-images.githubusercontent.com/44532905/149560801-ae58aabf-e425-42b1-b472-bf628d0531fd.jpg)
