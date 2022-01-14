@@ -18,3 +18,8 @@ While reading the "Open Source Defintion", I noticed that it specifically outlin
 ![regexone5](https://user-images.githubusercontent.com/44532905/149574694-b3cbde2e-3f7f-48c3-a081-aaa59b8ff031.PNG)
 ![regexone6](https://user-images.githubusercontent.com/44532905/149574681-5d5422ff-e727-4719-b0f3-fd16266051c3.PNG)
 ![regexone7](https://user-images.githubusercontent.com/44532905/149574589-850be833-941b-49fa-86f1-e4c9f00d3166.PNG)
+2.
+![crossword1](https://user-images.githubusercontent.com/44532905/149577236-7e5bb49d-e4f1-47ef-a6df-461d11ce4eef.PNG)
+![crossword2](https://user-images.githubusercontent.com/44532905/149577258-6ed058b2-c483-4ba3-ae1e-37a7d8ac2e43.PNG)
+![crossword3](https://user-images.githubusercontent.com/44532905/149577255-dc49cb30-cc6c-49dd-9a52-b9cd0e9c7877.PNG)
+![crossword4](https://user-images.githubusercontent.com/44532905/149577259-1dea32dc-bba8-48ca-9a03-a0fa82bca643.PNG)
