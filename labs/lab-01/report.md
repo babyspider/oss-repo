@@ -1,5 +1,9 @@
 # Lab 01 Report - Introduction to Open Source Software
 
+## 1. Discord
+![discord](https://user-images.githubusercontent.com/44532905/149605766-2f76c938-1133-479c-86f8-091766c560ae.PNG)
+
+
 ## 2. Reflection on Reading Assignments
 While reading the "Open Source Defintion", I noticed that it specifically outlined that not only does code have to be public and free it also has to be written in a manner that is not "deliberately obfuscated". I also noticed that it had reshare licensing so by using the code you are limited in how you can then distribute your project. I found this particularly interesting. 
 
