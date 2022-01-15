@@ -36,3 +36,5 @@ Crosswords
 
 ## 5. Blockly
 ![blockly](https://user-images.githubusercontent.com/44532905/149580005-0ff1a9a3-2980-4522-9f5a-4acad41e1885.PNG) 
+
+## 6. Reflection
