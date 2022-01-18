@@ -38,3 +38,4 @@ Crosswords
 ![blockly](https://user-images.githubusercontent.com/44532905/149580005-0ff1a9a3-2980-4522-9f5a-4acad41e1885.PNG) 
 
 ## 6. Reflection
+I started by looking at the projects in the book that was reccomended. I saw a couple of cool projects and also gained a much better understanding of the variety of things open source projects can encompass. I read chapter 3 about "Clustering By Consensus". It was interesting how they took something from a paper and created a way to apply it in an even bigger scale. To get a better sense of current projects, I took to google and I found a really interesting website calle codetriage.com. It has a lot of ongoing open source projects and tries to connect computer scientists to open issues in them. I found two really interesting projects on that website: elasticsearch and rust. Rust is a language with a focus on concurrency. I started going through the documentation and issues on its 
