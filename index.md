@@ -1,4 +1,4 @@
-# Open Source Software - Summer 2019
+# Open Source Software - Spring 2022
 ## Ariana Lissak
 ![IMG_0165](https://user-images.githubusercontent.com/44532905/149560801-ae58aabf-e425-42b1-b472-bf628d0531fd.jpg)
 
