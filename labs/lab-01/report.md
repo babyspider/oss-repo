@@ -14,8 +14,8 @@ In reading chapter three of Free Culture, I was absolutely confused and angry on
 ## 3. Downloading WSL and Tree
 ![mantree](https://user-images.githubusercontent.com/44532905/149565373-a8215478-c3df-4d36-8524-9d28ea025d38.PNG)
 
-## 4.
-1. Regex
+## 4. Regex
+1. 
 RegexOne
 
  
