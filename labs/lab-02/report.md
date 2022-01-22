@@ -9,3 +9,5 @@ and this reflects the git log output
 1. This is the link to my forked repository of Spoon-Knife where my project thoughts are located: https://github.com/babyspider/Spoon-Knife 
 2. This is the screenshot of my completion of the first four levels of Learn Git Branching
 ![introseq](https://user-images.githubusercontent.com/44532905/150658298-a1e94754-3a35-4783-b3ec-c69d74974106.PNG)
+## Part 3
+Link to my forked PullReq repository: https://github.com/babyspider/PullReq
