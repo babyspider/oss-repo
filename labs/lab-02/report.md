@@ -5,3 +5,6 @@
 ![branchdiagramlab2](https://user-images.githubusercontent.com/44532905/150657729-a61bd4c3-bd4b-4199-be24-c79fd39031aa.PNG)
 and this reflects the git log output 
 ![gitlog](https://user-images.githubusercontent.com/44532905/150657783-de32fb8d-0eb7-422a-953c-53a2fa03e25d.PNG)
+## Part 2
+1. This is the link to my forked repository of Spoon-Knife where my project thoughts are located: https://github.com/babyspider/Spoon-Knife 
+2. This is the screenshot of my completion of the first four levels of Learn Git Branching
