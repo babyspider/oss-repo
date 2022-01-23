@@ -10,4 +10,9 @@ and this reflects the git log output
 2. This is the screenshot of my completion of the first four levels of Learn Git Branching
 ![introseq](https://user-images.githubusercontent.com/44532905/150658298-a1e94754-3a35-4783-b3ec-c69d74974106.PNG)
 ## Part 3
-Link to my forked PullReq repository: https://github.com/babyspider/PullReq
+1. Link to my forked PullReq repository: https:/a/github.com/babyspider/PullReq
+2. Get diff screenshot
+![getdiff](https://user-images.githubusercontent.com/44532905/150694104-38e635f4-5744-4f5a-a6a9-5fbad9bdd6eb.PNG)
+3. Screenshot of tag
+![gittag](https://user-images.githubusercontent.com/44532905/150694287-21da686d-5478-41ab-abad-1a643c80d9c5.PNG)
+5. The common repository that I worked on is located at https://github.com/vandek5/OSSProjectIdeas/blob/master/Spring2022/ProjectIdeas6.md 
