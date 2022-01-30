@@ -1,5 +1,7 @@
 # Lab 3 Report
 ## Part 1: Documentation
+1.  This part is in the wiki of this repo.
+
 3. 
 The LaTex Code:
 $\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+\cdots}}}}$  
@@ -34,7 +36,7 @@ $\begin{bmatrix}
 ![unknown](https://user-images.githubusercontent.com/44532905/151682172-f5a5347e-ff19-41e3-8bcc-11f7492d2173.png)
 ![gitstats](https://user-images.githubusercontent.com/44532905/151682173-f4f220d2-63fc-45f4-8a2b-fe41e6eb4b80.png)
   
-I noticed that the gitstats were slightly different than the stats we had collected from the github pages ourselves. I noticed specifically for the project I analyzed, Astro.IQ
+I noticed that the gitstats were slightly different than the stats we had collected from the github pages ourselves. I noticed specifically for the project I analyzed, Astro.IQ that the contributor numbers were different. I only found one contributor but gitstats managed to pull out 3. Additionally the number of lines were vastly different and gitstats answer was also significantly more detailed including removed line and added line counts. However, gitstats did not have statistics on different branches, so there are limits to its data collection. I tried reading the code for gitstats but I'm not really sure where some of the differences come from.
   
 6.  
-
+When I installed Gource and tried to run it on the repository it caused a Segmentation Fault.
