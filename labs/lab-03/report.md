@@ -33,3 +33,8 @@ $\begin{bmatrix}
 ![unknown](https://user-images.githubusercontent.com/44532905/151682176-d7ccf3bb-a7f4-44d7-b2e6-b4eb2140d3e8.png)
 ![unknown](https://user-images.githubusercontent.com/44532905/151682172-f5a5347e-ff19-41e3-8bcc-11f7492d2173.png)
 ![gitstats](https://user-images.githubusercontent.com/44532905/151682173-f4f220d2-63fc-45f4-8a2b-fe41e6eb4b80.png)
+  
+I noticed that the gitstats were slightly different than the stats we had collected from the github pages ourselves. I noticed specifically for the project I analyzed, Astro.IQ
+  
+6.  
+
