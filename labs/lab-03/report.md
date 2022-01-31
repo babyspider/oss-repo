@@ -2,6 +2,7 @@
 ## Part 1: Documentation
 1.  This part is in the wiki of this repo.
 
+
 3. 
 The LaTex Code:
 $\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+\cdots}}}}$  
