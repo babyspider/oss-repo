@@ -1,9 +1,10 @@
 # Lab 3 Report
 ## Part 1: Documentation
-1.  This part is in the wiki of this repo.
+1.  
+This part is in the wiki of this repo.
 
 
-3. 
+3.  
 The LaTex Code:
 $\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+\cdots}}}}$  
 \newline  
@@ -23,7 +24,7 @@ $\begin{bmatrix}
 ![matrix latex](https://user-images.githubusercontent.com/44532905/151681506-fd048a4b-f914-4b5d-b8c5-4ba5ba892159.png)
 
 ## Part 2: Community
-4. 
+4.  
 | Project Name | contributors | lines of code | first commit | latest commit | current branches |
 | --- | --- | --- | --- | --- | --- |
 | ARAS | 1 |  56794 | 4da6754 09/22/2015 | 8cf1d31 12/04/2017 | master |
@@ -31,7 +32,7 @@ $\begin{bmatrix}
 | Article Aggregator | 2 | 543,664 | a3e586a 09/20/2019 | 0f8d55a 12/10/2019 | master |
 | Astro.IQ | 1| 195608| bc1107c 01/28/2017 | 4e2df67 05/03/2017 | master, renovate/configure|
 
-5.  
+5.   
 ![unknown](https://user-images.githubusercontent.com/44532905/151682162-e110e5b1-624b-4a43-843d-0a074763892c.png)
 ![unknown](https://user-images.githubusercontent.com/44532905/151682176-d7ccf3bb-a7f4-44d7-b2e6-b4eb2140d3e8.png)
 ![unknown](https://user-images.githubusercontent.com/44532905/151682172-f5a5347e-ff19-41e3-8bcc-11f7492d2173.png)
