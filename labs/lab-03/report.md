@@ -11,7 +11,7 @@ $\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+\cdots}}}}$
 $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}\cdots}}}$  
   
 ![powslatex](https://user-images.githubusercontent.com/44532905/151681489-c9294eda-81e8-4632-81b7-b16c2ad6c456.png)  
-4. 
+4.  
 The LaTex Code:  
 \usepackage{amsmath}  
 $\begin{bmatrix}  
