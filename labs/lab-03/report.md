@@ -43,4 +43,6 @@ I noticed that the gitstats were slightly different than the stats we had collec
 6.  
 When I installed Gource and tried to run it on the repository it caused a Segmentation Fault.  
 
-![errormessage](https://user-images.githubusercontent.com/44532905/151904368-92c150ce-6ea1-49cb-b21f-9346a8f5948c.PNG)
+![errormessage](https://user-images.githubusercontent.com/44532905/151904368-92c150ce-6ea1-49cb-b21f-9346a8f5948c.PNG)  
+  
+On watching the youtube video of running gource, I noticed that it showed who was working on what branch at different times. It was also very cool to watch the project just ballooned out at different times. One question I have is why the different nodes have different colors.
