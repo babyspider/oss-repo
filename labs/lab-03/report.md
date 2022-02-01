@@ -41,4 +41,6 @@ $\begin{bmatrix}
 I noticed that the gitstats were slightly different than the stats we had collected from the github pages ourselves. I noticed specifically for the project I analyzed, Astro.IQ that the contributor numbers were different. I only found one contributor but gitstats managed to pull out 3. Additionally the number of lines were vastly different and gitstats answer was also significantly more detailed including removed line and added line counts. However, gitstats did not have statistics on different branches, so there are limits to its data collection. I tried reading the code for gitstats but I'm not really sure where some of the differences come from.
   
 6.  
-When I installed Gource and tried to run it on the repository it caused a Segmentation Fault.
+When I installed Gource and tried to run it on the repository it caused a Segmentation Fault.  
+
+![errormessage](https://user-images.githubusercontent.com/44532905/151904368-92c150ce-6ea1-49cb-b21f-9346a8f5948c.PNG)
