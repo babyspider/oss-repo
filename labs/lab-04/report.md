@@ -8,9 +8,10 @@ It is important to choose a license because it allows others to work on the code
 If you use a project without an explicit license, you are using someone's copyrighted code. It is not implied that because you can use the project that you are legally allowed to use it. It also makes it very unclear as to how you would be allowed to modify and distribute the project.
   
 5.  
-The author of this article argues that Gophers failed for a variety of reasons. However, I agree with the author's point that community is a big factor towards the success of the technology. The main advantage the world wide web had was the community that used it, documented it and built new features. I feel like social inertia plays a big part in what OSS projects succeed and which don't.
+The author of this article argues that Gophers failed for a variety of reasons. However, I agree with the author's point that community is a big factor towards the success of the technology. The main advantage the world wide web had was the community that used it, documented it and built new features. I feel like social inertia plays a big part in what projects and technologies succeed and which don't. I mean when I am picking technologies, I generally go for whichever has the most documentation and community support not necessarily which is the best for the solution because if I can't understand how to use it then it doesn't really do me any good anyway.
  
 6.  
+I think one of the major reasons the linux kernel uses a GPL v2 license is because it is based on the Linux operating system which also uses a GPL v2 license. The GPL v2 license i
 
 7.  
 https://github.com/aidan-lane/oss-lab04/blob/main/README.md  
