@@ -16,7 +16,32 @@ Step 5:
 ![step5](https://user-images.githubusercontent.com/44532905/153737210-ce5f079e-6441-4d07-ac4a-6e270b4a7a4e.PNG)
   
 ## Part 2: Writing a MakeFile
+My Makefile:
+```
+all: static_block dynamic_block
 
+clean:
+	rm  static_block dynamic_block program.o sharedLib.so staticLib.a block.o
+
+static_block: program.o staticLib.a
+	gcc program.o staticLib.a -o static_block
+
+dynamic_block: program.o sharedLib.so
+	gcc program.o sharedLib.so -o dynamic_block -Wl,-rpath='$$ORIGIN'
+
+program.o: program.c
+	gcc -c program.c -o program.o
+
+sharedLib.so: block.o
+	gcc -shared -o sharedLib.so block.o
+
+staticLib.a: block.o
+	ar rcs staticLib.a block.o
+
+block.o: source/block.c headers/block.h
+	gcc  -fpic -c source/block.c -o block.o
+
+```
 My CMakeLists.txt File:  
 ```
 cmake_minimum_required(VERSION 3.1)
@@ -290,3 +315,7 @@ cmake_check_build_system:
 Output of the Program:  
 
 ![ProgramOutput](https://user-images.githubusercontent.com/44532905/153785698-5a83b667-ceeb-426d-9cbd-6f98d0a83a73.PNG)
+
+Static vs. Shared Size:  
+![file_size](https://user-images.githubusercontent.com/44532905/153935089-e8f432f7-e36d-4c55-a46b-7483b4ab8c6f.PNG)
+
