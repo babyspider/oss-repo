@@ -287,3 +287,6 @@ cmake_check_build_system:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 ```
+Output of the Program:  
+
+![ProgramOutput](https://user-images.githubusercontent.com/44532905/153785698-5a83b667-ceeb-426d-9cbd-6f98d0a83a73.PNG)
