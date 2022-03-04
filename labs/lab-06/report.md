@@ -1,5 +1,5 @@
 # Lab Report 6
-The 6 5-letter word output
+results for the 6 five letter pairs:
 ```
 ariana@DESKTOP-E97JKO6:/mnt/c/Users/lissaa/Documents$ python3 plot_words.py
 Loaded words_dat.txt containing 5757 five-letter English words.
@@ -66,7 +66,7 @@ peach
 Shortest path between pound and marks is
 None
 ```
-Code for first 4 letter solution:
+code for the four letter solution:
 ```python
 """
 =====
@@ -158,7 +158,7 @@ if __name__ == '__main__':
         except nx.NetworkXNoPath:
             print("None")
 ```
-Output of above code:
+results for the 5 four letter pairs:
 ```
 ariana@DESKTOP-E97JKO6:/mnt/c/Users/lissaa/Documents$ python3 plot_words.py
 Loaded words_dat.txt containing 5757 five-letter English words.
@@ -195,7 +195,7 @@ Shortest path between make and take is
 make
 take
 ```
-Code for unordered version:
+code for the unordered solution:
 ```python
 """
 =====
@@ -290,7 +290,7 @@ if __name__ == '__main__':
         except nx.NetworkXNoPath:
             print("None")
 ```
-Result for above code:
+results for the 6 five letter pairs using the unordered implementation:
 ```
 ariana@DESKTOP-E97JKO6:/mnt/c/Users/lissaa/Documents$ python3 plot_words.py
 Loaded words_dat.txt containing 5757 five-letter English words.
