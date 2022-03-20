@@ -18,3 +18,7 @@ The build failed because the copyright was wrong. I modified this to reflect the
 
 ### Checkpoint 4
 
+![lab8part5](https://user-images.githubusercontent.com/44532905/159185424-ff5eabc6-16ec-4453-b324-3939a9d81c43.PNG)
+![Capture](https://user-images.githubusercontent.com/44532905/159185571-eb528a06-9fe0-4dbd-9b17-2c1843724ec0.PNG)
+
+https://github.com/babyspider/CMakeStep5Tutorial--OSSClass
