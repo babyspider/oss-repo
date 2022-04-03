@@ -2,7 +2,7 @@
 
 ### Checkpoint 0
 
-### Checkpoint 1!
+### Checkpoint 1
 ![part1lab10](https://user-images.githubusercontent.com/44532905/161447150-6c38af1e-b35e-4a9b-b14a-d75164c78e09.PNG)
 
 ### Checkpoint 2
