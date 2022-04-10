@@ -46,6 +46,8 @@ Test accuracy: 0.8567000031471252
   2.3021412e-01 6.2279057e-02 1.6077119e-04 5.9564229e-02 2.8767099e-03]]
 3
 Dress
+
+  
 But when I run it on the noninverted one I get:  
 ![bag](https://user-images.githubusercontent.com/44532905/162596364-fa2996a4-64c6-4364-ab73-e217de369c3f.png)
 Test accuracy: 0.8695999979972839
