@@ -4,6 +4,7 @@
 ![lab11part1](https://user-images.githubusercontent.com/44532905/162596188-12bd8453-4b38-472d-bd8d-f7181ed894ab.PNG)
 
 ## Checkpoint 2
+I did this by shifting the indices by 9000 sponts to get the ones from 9000 and up instead of 0.  
 ![lab11part2](https://user-images.githubusercontent.com/44532905/162596202-a88e144a-e55b-444a-a533-55e3c21cb0d8.PNG)  
 
 ## Checkpoint 3 
